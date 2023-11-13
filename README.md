@@ -1,2 +1,2 @@
-# epickledb
+# ePickleDB
 Enhanced PickleDB
